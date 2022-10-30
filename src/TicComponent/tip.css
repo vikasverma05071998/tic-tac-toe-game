@@ -1,0 +1,18 @@
+body{
+    background-color:cadetblue;
+}
+
+
+.board-row{
+     display: flex;
+     justify-content:space-evenly;
+     
+    
+}
+.board-containor{
+    width: 300px;
+    position: relative;
+    left: 40%;
+    top: 20px;
+    
+}
